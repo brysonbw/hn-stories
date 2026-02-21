@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Remove unsupported categories from `Cargo.toml`.
+
 ## [0.1.0] - 2026-02-20
 
 ### Added
